@@ -5,23 +5,23 @@ This project is a machine learning-based healthcare system designed to predict d
 
 🎯 Key Objectives
 
-Train a machine learning model using medical datasets
+1)Train a machine learning model using medical datasets
 
-Predict whether a person may have a disease (e.g., diabetes)
+2)Predict whether a person may have a disease (e.g., diabetes)
 
-Classify health condition into risk levels
+3)Classify health condition into risk levels
 
-Provide basic preventive health guidance
+4)Provide basic preventive health guidance
 
 ⚙️ Features
 
-Data preprocessing and cleaning
+1)Data preprocessing and cleaning
 
-Train-test data splitting
+2)Train-test data splitting
 
-Machine learning model training and evaluation
+3)Machine learning model training and evaluation
 
-User input-based disease prediction
+4)User input-based disease prediction
 
 Risk classification into three levels:
 
@@ -49,33 +49,33 @@ Google Colab
 
 📊 Methodology
 
-Load and preprocess medical dataset
+1)Load and preprocess medical dataset
 
-Perform feature selection and normalization
+2)Perform feature selection and normalization
 
-Split data into training and testing sets
+3)Split data into training and testing sets
 
-Train machine learning models (Logistic Regression, Random Forest, SVM)
+4)Train machine learning models (Logistic Regression, Random Forest, SVM)
 
-Select the best performing model
+5)Select the best performing model
 
-Accept real-time user input
+6)Accept real-time user input
 
-Predict disease presence and health risk level
+7)Predict disease presence and health risk level
 
-Generate health assessment output and report
+8)Generate health assessment output and report
 
 ▶️ How to Run the Project
 
-Clone the repository
+1) Clone the repository
 
-Open the notebook in Google Colab or Jupyter Notebook
+2) Open the notebook in Google Colab or Jupyter Notebook
 
-Install required libraries
+3) Install required libraries
 
-Run all cells
+4) Run all cells
 
-Enter patient details when prompted
+5) Enter patient details when prompted
 
 ⚠️ Disclaimer
 
