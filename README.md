@@ -1,4 +1,6 @@
 🩺 Smart Multi-Disease Prediction and Health Risk Assessment System
+
+
 📌 Project Overview
 
 This project is a machine learning-based healthcare system designed to predict disease conditions and assess health risk levels based on user-provided medical data. The system focuses on early health risk awareness using data-driven analysis.
